@@ -1,0 +1,16 @@
+# Praktikum-Pemrograman-Web-dan-Mobile-I
+
+1.Modul 1 
+  Modul ini membahas tentang pengenalan bahasa pemograman PHP
+
+2.Modul 2
+  Modul ini membahas tentang penerapan bahasa pemrograman PHP untuk melakukan form handling
+  
+3.Modul 3
+   Modul ini membahas tentang penerapan bahasa pemrograman PHP untuk menghubungkan Database agar bisa diakses sehingga data dapat ditampilkan pada sebuah web
+  
+4.Modul 4
+  Modul ini membahas tentang Ajax yang dimana gabungan bahasa pemrograman JavaScript dan XML pada sebuah website sehingga dapat berjalan secara asynchronus
+  
+5.Modul 5
+  Modul ini membahas tentang langkah-langkah melakukan instalasi react native
