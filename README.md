@@ -14,3 +14,6 @@
   
 5.Modul 5
   Modul ini membahas tentang langkah-langkah melakukan instalasi react native
+  
+6.Modul6
+  Modul ini membahas tentang cara membuat search di react native
